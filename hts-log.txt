@@ -1,0 +1,22 @@
+HTTrack3.44-1+htsswf+htsjava launched on Tue, 20 Jun 2017 07:54:45 at http://wp1.themexlab.com/html2/health-coach/index.html +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2010], %s -->" -%l "en, en, *" http://wp1.themexlab.com/html2/health-coach/index.html -O1 F:\@PROJECT\Templet\Healstic +*.png +*.gif +*.jpg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+07:54:48	Warning: 	File not parsed, looks like binary: wp1.themexlab.com/robots.txt
+07:59:06	Warning: 	File not parsed, looks like binary: wp1.themexlab.com/html2/health-coach/fonts/glyphicons-halflings-regular.woff2
+07:59:06	Error: 	"Not Found" (404) at link wp1.themexlab.com/html2/health-coach/images/gradient/g30.png (from wp1.themexlab.com/html2/health-coach/css/revolution-slider.css)
+07:59:06	Error: 	"Not Found" (404) at link wp1.themexlab.com/html2/health-coach/images/gradient/g40.png (from wp1.themexlab.com/html2/health-coach/css/revolution-slider.css)
+07:59:06	Error: 	"Not Found" (404) at link wp1.themexlab.com/revolution.themepunch.com/wp-content/uploads/2014/05/wave21.png (from wp1.themexlab.com/html2/health-coach/css/revolution-slider.css)
+08:00:32	Error: 	"Not Found" (404) at link wp1.themexlab.com/html2/health-coach/css/owl.video.play.png (from wp1.themexlab.com/html2/health-coach/css/owl.css)
+08:00:32	Error: 	"Not Found" (404) at link wp1.themexlab.com/html2/health-coach/css/mCSB_buttons.html (from wp1.themexlab.com/html2/health-coach/css/jquery.mCustomScrollbar.min.css)
+08:01:03	Error: 	"Bad Request" (400) at link wp1.themexlab.com/html2/health-coach/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (from connect.facebook.net/en_US/sdk.js)
+08:01:04	Error: 	"Not Found" (404) at link wp1.themexlab.com/html2/health-coach/dialog/ (from connect.facebook.net/en_US/sdk.js)
+08:01:05	Error: 	"Bad Request" (400) at link wp1.themexlab.com/html2/health-coach/%s/profile.php?id=%s (from connect.facebook.net/en_US/sdk.js)
+08:01:22	Warning: 	File not parsed, looks like binary: wp1.themexlab.com/html2/health-coach/fonts/fontawesome-webfont.woff2?v=4.3.0
+
+HTTrack Website Copier/3.44-1 mirror complete in 6 minutes 47 seconds : 269 links scanned, 226 files written (11186536 bytes overall) [9513073 bytes received at 23373 bytes/sec], 2183914 bytes transfered using HTTP compression in 52 files, ratio 18%, 3.3 requests per connection
+(8 errors, 3 warnings, 0 messages)
